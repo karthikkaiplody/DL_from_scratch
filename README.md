@@ -2,3 +2,5 @@
 Deep learning from the scratch book- Reference
 Concepts | Description
 ---------|------------
+Forward Pass|
+Backward Pass|
