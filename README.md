@@ -4,3 +4,4 @@ Concepts | Description
 ---------|------------
 Forward Pass|
 Backward Pass|
+Dot Product|
